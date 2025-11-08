@@ -1,5 +1,5 @@
 Cyberfraud Classifier 🔒🤖
-This project presents a Cyberfraud Classifier that detects fraudulent activities in online environments using Natural Language Processing (NLP) and Deep Learning techniques. It was developed as part of an ML Project for SkillAI India to showcase the application of language models in cybersecurity.
+This project presents a Cyberfraud Classifier that classifies fraudulent activities in online environments using Natural Language Processing (NLP) and Deep Learning techniques. It was developed as part of an ML Project for SkillAI India to showcase the application of language models in cybersecurity.
 
 🚀 Project Overview
 Cyberfraud detection is a critical task in today’s digital landscape where scams, phishing, and malicious activities are prevalent. Our goal was to build a model that can analyze text-based input and accurately classify  it’s fraudulent nature and place them in correct label.
@@ -35,3 +35,4 @@ Install dependencies using pip install -r requirements.txt.
 Run the notebook in a GPU-enabled environment for optimal performance.
 
 Download a pre-trained BERT model via HuggingFace or TensorFlow Hub and fine-tune using the notebook.
+
